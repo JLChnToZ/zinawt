@@ -1,0 +1,16 @@
+{
+  "name": "zinawt",
+  "version": "0.1.0",
+  "description": "Zinawt is not a web toolkit",
+  "main": "lib/index.js",
+  "repository": "https://github.com/JLChnToZ/zinawt.git",
+  "author": "Jeremy Lam \"JLChnToZ\" <jeremylam619@gmail.com>",
+  "license": "MIT",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
